@@ -1,0 +1,11 @@
+datasets
+git+https://github.com/huggingface/transformers
+librosa
+evaluate
+jiwer
+gradio==3.37
+accelerate
+wandb
+peft
+bitsandbytes
+tensorboard
